@@ -1,5 +1,6 @@
 # github-final-project
-Final project of IBM Git course on Coursera
+Final project of IBM Git course on Coursera.
+
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 
